@@ -1,1 +1,2 @@
-def say
+def Greeting(name = "Ruby Programer")
+  puts
